@@ -1,0 +1,48 @@
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.exe
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.deps.json
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.runtimeconfig.json
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.dll
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.pdb
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Appetizers.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Beverages.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Desserts.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Home.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Main_Course.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Properties.Resources.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.csproj.GenerateResource.cache
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.AssemblyInfoInputs.cache
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.AssemblyInfo.cs
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.csproj.CoreCompileInputs.cache
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.dll
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\refint\orfoo.dll
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.pdb
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.genruntimeconfig.cache
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\ref\orfoo.dll
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Admin.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Login.resources
+E:\My Level-2-sem-2\RAD\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Order.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.exe
+E:\Tryouts\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.deps.json
+E:\Tryouts\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.runtimeconfig.json
+E:\Tryouts\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.dll
+E:\Tryouts\PROJECT ORFOO\orfoo\bin\Debug\net8.0-windows\orfoo.pdb
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Admin.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Appetizers.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Beverages.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Desserts.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Home.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Login.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Main_Course.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Order.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.Properties.Resources.resources
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.csproj.GenerateResource.cache
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.AssemblyInfoInputs.cache
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.AssemblyInfo.cs
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.csproj.CoreCompileInputs.cache
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.dll
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\refint\orfoo.dll
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.pdb
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\orfoo.genruntimeconfig.cache
+E:\Tryouts\PROJECT ORFOO\orfoo\obj\Debug\net8.0-windows\ref\orfoo.dll
